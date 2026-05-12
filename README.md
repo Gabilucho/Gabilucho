@@ -22,7 +22,6 @@
 - Mejorando mis habilidades como desarrollador
 - Creando proyectos para mi portfolio
 - Aprendiendo buenas prácticas y trabajo en equipo
-- Intentando sobrevivir al combo estudios + trabajo 😵‍💫
 
 ---
 
