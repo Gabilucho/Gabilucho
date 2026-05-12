@@ -13,8 +13,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![XML](https://img.shields.io/badge/dynamic/xml[Dynamic XML Badge])
-![JSON](https://img.shields.io/badge/dynamic/json[Dynamic JSON Badge]) 
+![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=xml&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![XSD](https://img.shields.io/badge/XML%20Schema-E34F26?style=for-the-badge&logo=databricks&logoColor=white)
 ---
 
 ## 📚 Actualmente
